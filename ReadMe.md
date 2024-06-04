@@ -17,3 +17,5 @@ To run this project, you need:
 
 A modern web browser (Google Chrome, Firefox, Safari, etc.)
 A local server (you can use tools like JSON Server to mock the backend)
+Enusre to start db.json using json-server --watch db.json so that the app runs
+created by Joe akatsa
